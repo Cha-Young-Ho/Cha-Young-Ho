@@ -7,6 +7,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCha-Young-Ho&count_bg=%234C4FF9&title_bg=%2314E3ED&icon=&icon_color=%23C94949&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   </div>
+  
+### 📌 Tech Stack
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)]
 
 
 <!--
