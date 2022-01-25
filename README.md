@@ -9,8 +9,8 @@
   </div>
   
 ### 📌 Tech Stack
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)]
 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
 <!--
 **Cha-Young-Ho/Cha-Young-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
