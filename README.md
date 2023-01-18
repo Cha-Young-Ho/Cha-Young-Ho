@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCha-Young-Ho&count_bg=%234C4FF9&title_bg=%2314E3ED&icon=&icon_color=%23C94949&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   </div>
  
-## Interested
+### Interested
 
 <div align="left">
 	
@@ -29,14 +29,14 @@
   
 </div>
 
-## Recent Posts
+### Recent Posts
 
 * [Spring에서의 동기와 비동기](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [DB에서의 Hash](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-Hash-%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [DDD](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-DDD%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [Oriented DB](https://velog.io/@jkijki12/Row-Oriented-DB-vs-Column-Oriented-DB)
 
-## Recent Activities
+### Recent Activities
 
 * `2023. 01. 01 ~` 알고리즘 스터디
 * `2022. 10. 28 ~` 벌금 관리 서비스 기획 중
