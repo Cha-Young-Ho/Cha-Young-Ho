@@ -32,8 +32,11 @@
 ### Recent Posts
 
 [✅ Spring에서의 동기와 비동기](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
 [✅ DB에서의 Hash](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-Hash-%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
 [✅ DDD](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-DDD%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
 [✅ Oriented DB](https://velog.io/@jkijki12/Row-Oriented-DB-vs-Column-Oriented-DB)
 
 ### Recent Activities
