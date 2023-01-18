@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-	  <img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=Git&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=GitHubActions&logoColor=white" />
 	  <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" />
 	  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=ApacheKafka&logoColor=white" />
