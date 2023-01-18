@@ -49,9 +49,9 @@ I'm Young Ho who Wanna be **Steady-Going** Backend Engineer
 * `2022. 10. 22 ~` 책 리뷰 사이트 서버 제작 완료
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cha-Young-Ho&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cha-Young-Ho&theme=merko&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Young-Ho&layout=compact">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cha-Young-Ho&layout=compact">
 
 
 
