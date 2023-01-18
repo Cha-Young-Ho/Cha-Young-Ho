@@ -1,4 +1,6 @@
-### 안녕하세요. 문제를 인식하고 해결하는 과정이 좋은 개발자 차영호입니다. 👋
+### Introduce
+Hi! Here is Young Ho's Page
+I'm Young Ho who Wanna be **Steady-Going** Backend Engineer
 
 
 <div align=center>
@@ -31,19 +33,21 @@
 
 ### Recent Posts
 
-[✅ Spring에서의 동기와 비동기](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [✅ Spring에서의 동기와 비동기](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
-[✅ DB에서의 Hash](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-Hash-%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [✅ DB에서의 Hash](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-Hash-%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
-[✅ DDD](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-DDD%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [✅ DDD](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-DDD%EB%A5%BC-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
-[✅ Oriented DB](https://velog.io/@jkijki12/Row-Oriented-DB-vs-Column-Oriented-DB)
+* [✅ Oriented DB](https://velog.io/@jkijki12/Row-Oriented-DB-vs-Column-Oriented-DB)
 
 ### Recent Activities
 
 * `2023. 01. 01 ~` 알고리즘 스터디
 * `2022. 10. 28 ~` 벌금 관리 서비스 기획 중
 * `2022. 10. 22 ~` 책 리뷰 사이트 서버 제작 완료.
+
+
 
 
  
