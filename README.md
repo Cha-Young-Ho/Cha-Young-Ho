@@ -11,10 +11,17 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=#B7178C" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=#339933" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=#6DB33F" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=#4479A1" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=#DC382D" />
+	  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=#FCC624" />
+	  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=#2496ED" />
+	  <img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=Git&logoColor=#F05032" />
+	  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=GitHubActions&logoColor=#2088FF" />
+	  <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat&logo=AmazonAWS&logoColor=#FF9900" />
+	  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=#DC382D" />
+	  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=#DC382D" />
   
 </div>
 
