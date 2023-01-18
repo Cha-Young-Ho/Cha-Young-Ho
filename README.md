@@ -50,7 +50,7 @@ I'm Young Ho who Wanna be **Steady-Going** Backend Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cha-Young-Ho&theme=merko&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Young-Ho)](https://github.com/Cha-Young-Ho/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Young-Ho&layout=compact">
 
 
 
