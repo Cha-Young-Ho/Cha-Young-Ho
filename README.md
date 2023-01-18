@@ -10,7 +10,7 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactiveX-#B7178C?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactiveX-#B7178C?style=flat&logo=ReactiveX&logoColor=#B7178C" />
   <img src="https://img.shields.io/badge/Node.js-#339933?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
