@@ -32,6 +32,7 @@ I'm Young Ho who Wanna be **Steady-Going** Backend Engineer
 </div>
 
 ### Recent Posts
+* [✅ 비동기 상황에서 장애 대응해보기](https://velog.io/@jkijki12/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 * [✅ Spring에서의 동기와 비동기](https://velog.io/@jkijki12/%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%AC%BB%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
