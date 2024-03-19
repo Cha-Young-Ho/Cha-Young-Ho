@@ -42,13 +42,6 @@ I'm Young Ho who Wanna be **Steady-Going** Backend Engineer
 
 * [✅ Oriented DB](https://velog.io/@jkijki12/Row-Oriented-DB-vs-Column-Oriented-DB)
 
-### Recent Activities
-
-* `2023. 01. 01 ~` 알고리즘 스터디
-* `2022. 11. 14 ~` DDD 스터디
-* `2022. 10. 28 ~` 벌금 관리 서비스 기획 중
-* `2022. 10. 22 ~` 책 리뷰 사이트 서버 제작 완료
-
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cha-Young-Ho&theme=merko&show_icons=true)
 
